@@ -2,7 +2,7 @@ import os
 import pygame
 import sys
 pygame.init()
-screen = pygame.display.set_mode((800, 300))
+screen = pygame.display.set_mode((900, 300))
 white = (255, 255, 255)
 path = r'C:\Users\ADMIN\OneDrive\Рабочий стол\Azamat(TSIS)\lab7'
 l = []
